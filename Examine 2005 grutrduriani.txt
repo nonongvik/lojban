@@ -1,0 +1,119 @@
+Examine 2005 grutrduriani
+Viktor Nonong Medrano
+
+VIK: 2026-07-26. I-analyze mo ang Lojban na dokumentong ito.
+
+CHATGPT:
+
+Ang dokumento ay mukhang isang Lojban diary/journal na isinulat ni la .viktor. medranos. noong 2005, na may pamagat na “la .vik. zei grutrduriani”. Ang salitang grutrdurian ay Lojban fu’ivla para sa durian, kaya ang pamagat ay parang “Durian Journal ni Vik.” 2005 grutrduriani.pdf
+
+Pangkalahatang Katangian
+
+	•	Sakop ang mga petsa mula 2005-08-08 hanggang 2005-10-11. 
+	•	Bawat entry ay maikli, kadalasang isa o dalawang pangungusap lamang.
+	•	Maraming obserbasyon tungkol sa:
+	•	mga parke (panka)
+	•	mga batang naglalaro
+	•	pagkain
+	•	panahon
+	•	pagbabasa ng libro
+	•	mga wika
+	•	mga lokal na pangyayari
+	•	Madalas gamitin ang mga Lojban attitude indicators gaya ng:
+	•	.a’u (interes)
+	•	.o’u (relaxation)
+	•	.u’i (kasiyahan)
+	•	.a’a (attentive awareness)
+	•	.i’o (appreciation)
+
+Mga Paulit-ulit na Tema
+
+1. Mga parke at sports
+
+Napakaraming entry tungkol sa mga tao sa parke na naglalaro ng:
+
+	•	football/soccer (kelcrfudboli)
+	•	soccer (kelcrsokeri)
+	•	frisbee (kelcrfrizbi)
+	•	tai chi (kelcrtaitci)
+	•	boomerang (kelcrbumerangi)
+
+Halimbawa:
+
+“Ang itim-at-puting koponan at ang pula-at-asul na koponan ay naglalaro ng soccer.” 2005 grutrduriani.pdf
+
+“Anim na tao ang naglalaro ng frisbee sa parke habang umuulan.” 2005 grutrduriani.pdf
+
+Makikita rito na mahilig ang may-akda sa pagmamasid sa mga tao sa mga pampublikong lugar.
+
+⸻
+
+2. Pagkain
+
+Maraming entry tungkol sa pagkain.
+
+Kabilang dito ang:
+
+	•	durian (grutrduriani) 2005 grutrduriani.pdf
+	•	prunes (grutrprunu) 2005 grutrduriani.pdf
+	•	tofu rice barbecue bowl (tadjrbarbikiu xarju ke cidjrtofu rismi) 2005 grutrduriani.pdf
+	•	chow mein (cidjrtcaumeini) 2005 grutrduriani.pdf
+	•	ice cream yogurt na may seresa (xekri grutrtceri ke bisli cidjrniogurti) 2005 grutrduriani.pdf
+
+Isa sa mga pinakasimpleng entry:
+
+“.u’i citka lo cidjrsoba .i ri kukte”
+
+“Masayang kumain ng soba. Masarap ito.” 2005 grutrduriani.pdf
+
+⸻
+
+3. Mga wika at pagbabasa
+
+May malinaw na interes sa lingguwistika.
+
+Makikita ang:
+
+	•	pagbanggit sa Inuktitut 2005 grutrduriani.pdf
+	•	aklat ni Franz Boas na The Central Eskimo 2005 grutrduriani.pdf
+	•	mga pag-uusap sa Tagalog at Ingles 2005 grutrduriani.pdf
+	•	pagbabasa ng A Wizard of Earthsea ni Ursula Le Guin 2005 grutrduriani.pdf
+	•	pagbili ng tatlong aklat ni Tolkien 2005 grutrduriani.pdf
+
+Ipinapakita nito na kahit noong 2005 pa lamang, malakas na ang interes ng may-akda sa mga wika at fantasy literature.
+
+⸻
+
+4. Lokal na buhay sa Canada
+
+Maraming palatandaan na ang tagpuan ay Canada:
+
+	•	may banggit sa Canadian team at American team 2005 grutrduriani.pdf
+	•	mga parke, paaralan, ulan, taglagas
+	•	pagkapansin na nagsisimula nang maging kahel ang mga dahon ng puno sa taglagas. 2005 grutrduriani.pdf
+
+Ito ay parang “snapshot” ng araw-araw na buhay sa Metro Vancouver noong taglagas ng 2005.
+
+⸻
+
+Antas ng Lojban
+
+Ang Lojban ay:
+
+	•	medyo natural at madaling basahin
+	•	gumagamit ng maraming fu’ivla (loanwords) para sa pagkain, sports, at mga pangalan
+	•	hindi sobrang teknikal
+	•	kahawig ng personal diary kaysa sanaysay
+
+Mga halimbawa:
+
+	•	bangrtagaloga = wikang Tagalog 2005 grutrduriani.pdf
+	•	bangrnuktituti = Inuktitut language 2005 grutrduriani.pdf
+	•	kelcrfudboli = football player / football activity 2005 grutrduriani.pdf
+	•	kelcrsokeri = soccer activity 2005 grutrduriani.pdf
+
+⸻
+
+Buod
+
+Ang dokumentong ito ay isang napakaagang personal na Lojban diary mula 2005. Hindi ito pilosopikal o teknikal na teksto; sa halip, isa itong talaan ng pang-araw-araw na buhay: pagkain ng durian at iba pang pagkain, pagmamasid sa mga tao sa parke, pagbabasa ng mga aklat tungkol sa Inuktitut at fantasy, at pakikisalamuha sa mga kaibigan. Dahil sa dami ng mga obserbasyon tungkol sa mga wika (Inuktitut, Tagalog, Ingles), fantasy literature (Tolkien, Le Guin), at mga pagkain mula sa iba’t ibang kultura, nagbibigay ito ng malinaw na larawan ng mga interes ng may-akda noong panahong iyon. 
