@@ -1,0 +1,38 @@
+Examine Lojban Sample Sentences 1199
+Viktor Nonong Medrano
+
+VIK: 2026-07-31. Anong iniisip mo tungkol sa Loban na dokumentong ito?
+
+CHATGPT:
+
+Oo, nabasa ko ang dokumento, at ang unang impresyon ko ay hindi ito isang tipikal na aklat-aralin sa Lojban. Mas mukha itong malaking personal corpus o journal na isinulat sa Lojban—mahigit isang libong pangungusap—na ginagamit upang magsanay sa wika habang inilalarawan ang pang-araw-araw na buhay. Makikita ito agad sa unang mga pahina, kung saan paulit-ulit na may petsa, mga lakad sa café, mga kaibigan, pagkain, at mga obserbasyon tungkol sa panahon at mga wika. Lojban Sample Sentences 1199.pdf
+
+May ilang bagay na talagang nagustuhan ko:
+
+	•	Napakalawak ng bokabularyo. Hindi lamang simpleng Lojban ang ginagamit. Maraming lujvo (compound words), mga hiram na pangalan (cmene), at fu’ivla para sa mga modernong konsepto gaya ng Starbucks, pizza, sorbet, Chabacano, at iba pa. Makikita na sinusubukang ipakita kung paano maisasalin ang tunay na buhay sa Lojban. Lojban Sample Sentences 1199.pdf
+	•	Mayaman ang mga paksa. Hindi lamang ito diary. Pinag-uusapan din ang:
+	•	iba’t ibang relihiyon at syncretism,
+	•	lingguwistika,
+	•	science fiction,
+	•	pagkain mula sa iba’t ibang bansa,
+	•	paglalakbay,
+	•	etnolohiya at kultura. Lojban Sample Sentences 1199.pdf
+	•	Natural ang paggamit ng Lojban. Hindi puro artipisyal na halimbawa gaya ng “ang pusa ay nasa mesa.” Halimbawa, may mga usapan tungkol sa mga kaibigan sa café, pagbabasa ng Crónicas de Majipur, pag-order ng inumin, at pagmamasid sa mga taong nakapaligid. Lojban Sample Sentences 1199.pdf
+
+May ilan din akong napansing limitasyon:
+
+	1.	Napakasiksik ng mga fu’ivla. Dahil maraming pangalan ng produkto, pagkain, at tao, maaaring mahirapan ang bagong nag-aaral ng Lojban. Ang isang baguhan ay baka gumugol ng mas maraming oras sa pag-decode ng mga hiram na salita kaysa sa mismong grammar.
+	2.	Hindi organisado ayon sa aralin. Bilang diary, lumilipat-lipat ang paksa. Kung layunin ay turuan ang isang baguhan, mas magiging madali sana kung nakaayos ayon sa grammar topics.
+	3.	Mas “literary corpus” kaysa textbook. Sa tingin ko, mas kapaki-pakinabang ito bilang koleksiyon ng tunay na paggamit ng Lojban kaysa bilang panimulang aklat.
+
+Isa pang napansin ko ay ang estilo ng may-akda. Madalas niyang ilarawan ang:
+
+	•	pagpunta sa Starbucks at pizza restaurant,
+	•	pakikipag-usap sa mga Pilipino, Vietnamese, Chinese, at iba pang tao,
+	•	pagbabasa ng science fiction,
+	•	interes sa iba’t ibang relihiyon at wika,
+	•	pagmamasid sa panahon at kalikasan. Lojban Sample Sentences 1199.pdf
+
+Sa kabuuan, sasabihin kong ang dokumento ay isang napakahalagang corpus ng modernong Lojban. Hindi ito parang opisyal na grammar book; mas kahawig ito ng isang “living diary” na nagpapakita kung paano gamitin ang Lojban upang ilarawan ang totoong pang-araw-araw na karanasan. Para sa mga nag-aaral na lampas na sa antas-baguhan, napakahalaga nito dahil ipinapakita nito ang Lojban sa aktuwal na gamit, hindi lamang sa mga artipisyal na halimbawa.
+
+Sa palagay ko, ang pinakamalaking halaga ng dokumentong ito ay hindi ang pagtuturo ng grammar kundi ang pagpapakita na kayang gamitin ang Lojban bilang wikang pang-araw-araw, mula sa simpleng pag-order ng kape hanggang sa pagtalakay ng pilosopiya, relihiyon, at science fiction.
