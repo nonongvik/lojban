@@ -1,0 +1,37 @@
+cibmasti gi’e vonmasti (ChatGPT)
+Viktor Nonong Medrano
+
+.vik. zei cibmasti
+.vik. zei vonmasti
+
+VIK: 2026-08-05. Anong maiisip mo tungkol sa mga Lojban na dokumentong ito?
+
+CHATGPT:
+
+Sa unang basa, ang dalawang dokumento ay nag-iwan sa akin ng impresyon na hindi sila tradisyunal na sanaysay o kuwento, kundi isang Lojban diary o journal. Ang bawat entry ay maikli, may petsa, at nagtatala ng mga pang-araw-araw na pangyayari, mga taong nakilala, pagkain, panahon, at mga personal na pagmumuni-muni. 
+
+Narito ang ilang bagay na kapansin-pansin:
+	•	Napakalakas ng consistency ng Lojban. Halos lahat ng pangungusap ay gumagamit ng tipikal na estilo ng Lojban: 
+	•	.i para sa bagong pangungusap.
+	•	ni'o bilang panibagong seksiyon.
+	•	zo'u para sa topic phrase.
+	•	poi, noi, at iba pang relativizers. Makikita na komportable ka nang magsulat ng tuluy-tuloy sa Lojban, hindi lamang mga hiwa-hiwalay na halimbawa.
+	•	Diary kaysa textbook. Hindi ito koleksiyon ng mga artipisyal na pangungusap gaya ng maraming Lojban learning materials. Halimbawa, inilalarawan mo ang paglalakad, pakikipag-usap sa mga tao, pagbabasa ng Crónicas de Majipur, pag-aaral ng Chavacano, pagpunta sa Starbucks, at pagkain sa iba’t ibang restaurant. 
+	•	Maraming loanwords at cmevla (pangalan). Makikita ang mga pangalang tulad ng Sarah, Dennis, Sandra, Greg, Rod, at iba pa, pati mga pangalan ng tindahan at pagkain. Ginagawa nitong parang totoong tala ng buhay kaysa kathang-isip. 
+	•	May malawak na bokabularyo. Hindi lamang simpleng pandiwa ang gamit. Lumilitaw ang mga salitang may kaugnayan sa:
+	•	panahon (ulan, araw, lamig),
+	•	halaman at bulaklak,
+	•	pagkain,
+	•	nasyonalidad,
+	•	pagbabasa,
+	•	paglalakad,
+	•	pag-aaral ng wika. Ipinapakita nito na ginagamit mo ang Lojban sa iba’t ibang larangan ng pang-araw-araw na buhay.
+	•	Interes sa mga wika. Ilang beses mong binanggit ang pagbabasa ng Crónicas de Majipur habang nag-aaral ng Chavacano, at sa ikalawang dokumento ay may pagmumuni tungkol sa paglikha ng bagong wika. 
+
+Mayroon din akong ilang obserbasyong pangwika:
+	1.	Natural na ang estilo. Hindi ito mukhang isinalin lamang mula sa Ingles. Maraming pangungusap ang mukhang direktang inisip sa Lojban.
+	2.	May impluwensiya ng Ingles sa pagpili ng bokabularyo. Kapag tumutukoy sa mga modernong konsepto o brand names, natural na gumagamit ng mga Lojbanized proper names at hiram na salita. Normal ito sa kasalukuyang paggamit ng Lojban.
+	3.	Mataas ang lexical density. Hindi ito beginner text. Ang isang baguhang nag-aaral ng Lojban ay malamang na kailangan pang sumangguni nang madalas sa diksyunaryo.
+	4.	Napakapraktikal ng gamit. Isa ito sa mga layunin ng Lojban—ang magamit sa tunay na komunikasyon, hindi lamang sa mga halimbawa ng gramatika. Ang ganitong journal ay magandang corpus para makita kung paano aktuwal na ginagamit ang wika.
+
+Sa kabuuan, masasabi kong ang mga dokumentong ito ay isang personal na corpus ng modernong Lojban. Hindi lamang sila tala ng mga pangyayari; nagsisilbi rin silang rekord ng kung paano maaaring gamitin ang Lojban bilang pang-araw-araw na wikang pampanitikan at pampersonal. Para sa sinumang interesado sa aktuwal na paggamit ng Lojban sa labas ng mga textbook, mahalaga ang ganitong uri ng mga sulatin dahil ipinapakita nila kung paano naiaangkop ang wika sa totoong buhay.
