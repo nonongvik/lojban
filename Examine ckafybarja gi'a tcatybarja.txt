@@ -1,0 +1,32 @@
+Examine ckafybarja gi'a tcatybarja
+Viktor Nonong Medrano
+
+VIK: 2026-08-06. Anong maiisip mo tungkol sa Lojban na dokumentong ito?
+
+CHATGPT:
+
+Sa palagay ko, ang dokumentong ito ay isang personal diary sa Lojban, at nagpapakita ito ng lumalawak mong kakayahang magsulat ng tuluy-tuloy na prosa, hindi lamang mga hiwa-hiwalay na pangungusap. 
+ckafybarja gi'a tcatybarja.txt
+
+Narito ang ilang obserbasyon:
+	•	Natural ang estilo bilang journal. Nagsisimula ito sa pamagat at pagkatapos ay sunod-sunod na mga tala ng araw-araw na pangyayari: pagpunta sa café, pag-inom ng iced latte at boba, pakikipag-usap sa mga kakilala, lagay ng panahon, at mga iniisip. Ang ganitong uri ng teksto ay magandang ehersisyo para sa fluency sa Lojban. 
+	•	Mayaman ang bokabularyo. Gumagamit ka ng maraming lujvo at hiram na salita para sa mga modernong konsepto:
+	•	ckafybarja (coffee shop)
+	•	tcatybarja (tea shop)
+	•	tcatrboba (boba tea)
+	•	tcatrmatca (matcha)
+	•	vecnrbarista (barista)
+	•	Ipinapakita nito na komportable kang bumuo ng mga bagong salita ayon sa morpolohiya ng Lojban.  
+	•	Mahusay ang paggamit ng mga pangalan. Ang mga personal na pangalan at lugar ay malinaw na inilalagay bilang cmevla, gaya nina la .tim. .xortnz., la .dolyr. .bobas., la .eduard., at iba pa. Dahil dito, madaling sundan kung sino at saan ang tinutukoy. 
+	•	May kronolohiya. Ang mga entry ay may petsa at sinusundan ang pagkakasunod ng mga pangyayari sa araw. Nagbibigay ito ng malinaw na daloy sa halip na magkakahiwalay na obserbasyon. 
+ckafybarja gi'a tcatybarja.txt
+
+Mayroon din akong ilang mungkahi:
+	1.	Mas maraming konektor ng diskurso. Bagama’t sapat ang .i, maaari mong paglaruan ang mga tulad ng ja’e, mu’i, ki’u, ca’o, at ba’o upang mas malinaw ang ugnayan ng sanhi, resulta, at pagkakasunod-sunod.
+	2.	Mas mahahabang subordinate clauses. Halimbawa, kapag naglalarawan ng isang tao o pangyayari, maaari mong gamitin nang mas madalas ang poi, noi, pe, at iba pang relative constructions upang maging mas elegante ang estilo.
+	3.	Mas kaunting pag-uulit ng ilang parirala. Halimbawa, ang paulit-ulit na mi pinxe… at mi citka… ay natural sa diary, ngunit maaari ring gumamit ng ibang estruktura upang maging mas iba’t iba ang ritmo ng pagsulat.
+
+Ang pinakanagustuhan ko ay ang praktikal na gamit ng Lojban. Hindi ito listahan ng halimbawa ng gramatika; ginagamit mo ang wika upang isalaysay ang totoong buhay—ang pagpunta sa Tim Hortons, Dollar Bobas, pakikipag-usap sa mga kaibigan, at mga obserbasyon sa paligid. 
+ckafybarja gi'a tcatybarja.txt
+
+Kung ihahambing sa dalawang nauna mong dokumento (cibmasti at vonmasti), ang isang ito ay pakiramdam ko ay mas dumadaloy bilang isang tunay na journal, at mas nababawasan ang impresyong parang koleksiyon lamang ng mga halimbawa ng pangungusap. Ang direksiyon na ito ay mahusay para sa patuloy na pagpapaunlad ng iyong estilo sa Lojban.
